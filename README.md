@@ -28,9 +28,10 @@ The pipeline follows a typical ETL pattern:
 * SQL Scripts: Contains queries used for data analysis and insights.
 
 ## Folder Structure:
+```
 cde_bootcamp/
 ├── bash_scripts/
 │   ├── etl.sh
 │   ├── move_files.sh
 ├── README.md
-`
+```
