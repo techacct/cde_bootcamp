@@ -1,5 +1,5 @@
 # CDE Bootcamp
-This repository contains assignments, scripts, and project work completed during the CoreDataEngineers (CDE) Data Engineering Bootcamp. The focus of this bootcamp is on building data engineering solutions using Bash scripting, PostgreSQL, and ETL (Extract, Transform, Load) pipelines.
+This repository contains assignments, scripts, and project work completed during the CoreDataEngineers (CDE) Data Engineering Bootcamp. The focus of this assignment is on building data engineering solutions using Bash scripting, PostgreSQL, and ETL (Extract, Transform, Load) pipelines.
 
 ## Table of Contents
 1. Project Overview
