@@ -30,8 +30,10 @@ The pipeline follows a typical ETL pattern:
 ## Folder Structure:
 ```
 cde_bootcamp/
+|── csv_files
 ├── bash_scripts/
 │   ├── etl.sh
 │   ├── move_files.sh
+|   ├── queries.sql
 ├── README.md
 ```
